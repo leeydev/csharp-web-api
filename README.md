@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/leeydev/csharp-web-api)
+![Version](https://img.shields.io/github/package-json/v/leeydev/csharp-web-api)
+
 # csharp-web-api
 
 Professional Web API built with C#.
